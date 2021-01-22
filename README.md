@@ -25,11 +25,11 @@ Todo ello se ira guardando en un historial personalizado.
 
 La segunda opción del primer menú nos envía a un submenú especial para realizar el registro de nuevos clientes, además este nos permite verificar los datos de los ya existentes, su historial de entregas y prestamos, e información adicional como su nombre y fecha de registro, en caso de querer eliminar por completo a un cliente, también podrá realizarlo.
 
-![Segundo submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.2png)
+![Segundo submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.2.png)
 
 La tercera opción del menú principal es muy similar a la segunda, con la pequeña salvedad de que en este caso estaremos trabajando con los datos de los libros.
 
-![Tercer submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.3png)
+![Tercer submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.3.png)
 
 La cuarta opción nos muestra información acerca de la biblioteca del instituto.
 
