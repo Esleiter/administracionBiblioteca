@@ -13,7 +13,7 @@ El presente proyecto de programación está enfocado en mejorar los procesos rel
 • No se requiere el uso de Bases de Datos.
 
 En la pantalla de inicio, inmediatamente el ejecutar el programa observamos un primer menú, el cual, mediante una selección múltiple, nos dota de diferentes opciones.
-(https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.png)
+![Inicio](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.png)
 
 Al seleccionar la primera opción y presionar enter, nos envía a otra pantalla, con un segundo menú, este nos 
 permite llevar a cabo dos funciones principales de la biblioteca, pudiendo seleccionar una por vez.
@@ -21,18 +21,18 @@ Para la primera opción, registrar un préstamo, seremos capaces de registrar el
 Para la entrega de los libros, no solo se cumple con lo anterior descrito, sino que también el programa al recibir correctamente los datos será capaz de generar una advertencia y penalización en caso de retraso en la entrega.
 Todo ello se ira guardando en un historial personalizado.
 
-(https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.1.png)
+![Primer submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.1.png)
 
 La segunda opción del primer menú nos envía a un submenú especial para realizar el registro de nuevos clientes, además este nos permite verificar los datos de los ya existentes, su historial de entregas y prestamos, e información adicional como su nombre y fecha de registro, en caso de querer eliminar por completo a un cliente, también podrá realizarlo.
 
-(https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.2png)
+![Segundo submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.2png)
 
 La tercera opción del menú principal es muy similar a la segunda, con la pequeña salvedad de que en este caso estaremos trabajando con los datos de los libros.
 
-(https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.3png)
+![Tercer submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.3png)
 
 La cuarta opción nos muestra información acerca de la biblioteca del instituto.
 
-(https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.4.png)
+![Cuarto submenu](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.4.png)
 
 Aconsejo leer detenidamente las opciones que va presentando el programa, y dotarlo de la información correcta, de igual manera, este verificara las entradas y salidas de datos completamente erróneas.
