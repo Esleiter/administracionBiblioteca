@@ -1,0 +1,12 @@
+Codigo del libro: 814
+Titulo: ensayos americanos
+Estado del libro: nuevo
+--------------Historial de prestamos:------------
+-----------------------ENTREGADO---------------------------
+Prestamo: 
+En estatus de prestamo al cliente: 28316590
+-----------------------ENTREGADO---------------------------
+Prestamo: 
+En estatus de prestamo al cliente: 28316590
+-----------------------ENTREGADO---------------------------
+-----------------------ENTREGADO---------------------------

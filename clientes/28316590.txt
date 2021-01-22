@@ -1,0 +1,17 @@
+Cedula de identidad: 28316590
+Nombres: Esleiter
+Apellidos: Fajardo
+Fecha de registro: 
+10-01-2021
+--------------Historial de prestamos:------------
+Prestamo: 
+Fecha del Prestamo: 
+10-01-2021
+Fecha a entregar el libro: 15-01-2021
+Estado del libro: excelente
+-----------------------ENTREGADO---------------------------
+Prestamo: 
+Fecha del Prestamo: 
+10-01-2021
+Fecha a entregar el libro: 15-01-2021
+-------------------Penalizado y ENTREGADO-------------------------------
