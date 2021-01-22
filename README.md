@@ -13,8 +13,7 @@ El presente proyecto de programación está enfocado en mejorar los procesos rel
 • No se requiere el uso de Bases de Datos.
 
 En la pantalla de inicio, inmediatamente el ejecutar el programa observamos un primer menú, el cual, mediante una selección múltiple, nos dota de diferentes opciones.
-![Aquí la descripción de la imagen por si no carga]
-(https://github.com/Esleiter/administarcionBiblioteca/blob/main/img/1.png)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Esleiter/administarcionBiblioteca/main/img/1.png)
 
 Al seleccionar la primera opción y presionar enter, nos envía a otra pantalla, con un segundo menú, este nos 
 permite llevar a cabo dos funciones principales de la biblioteca, pudiendo seleccionar una por vez.
